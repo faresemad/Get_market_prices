@@ -1,0 +1,744 @@
+1620862181488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet6pOl0"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862182118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862188507	Marionette	INFO	Listening on port 39867
+1620862188707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620862208537	Marionette	INFO	Stopped listening on port 39867
+1620862245365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI92MlU"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862245713	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862251082	Marionette	INFO	Listening on port 40335
+1620862251189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620862265212	Marionette	INFO	Stopped listening on port 40335
+1620862274601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJrZZEc"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862275272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862280291	Marionette	INFO	Listening on port 38959
+1620862280327	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021051001.js?31061038, line 6: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1620862290840	Marionette	INFO	Stopped listening on port 38959
+1620862317813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPFwwo"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862318131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862324027	Marionette	INFO	Listening on port 43995
+1620862324138	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620862339502	Marionette	INFO	Stopped listening on port 43995
+1620862368754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejm1XE1"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862369103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862375340	Marionette	INFO	Listening on port 36403
+1620862375389	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1620862435091	Marionette	INFO	Stopped listening on port 36403
+1620862491355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV8668g"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862491738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862497816	Marionette	INFO	Listening on port 43015
+1620862497894	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620862513641	Marionette	INFO	Stopped listening on port 43015
+1620862519699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCPbKAy"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862520002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862525546	Marionette	INFO	Listening on port 33001
+1620862525623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620862539224	Marionette	INFO	Stopped listening on port 33001
+1620862606175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5J35YM"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862606499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862612207	Marionette	INFO	Listening on port 34629
+1620862612302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021050601.js, line 6: NS_ERROR_NOT_INITIALIZED: 
+1620862626191	Marionette	INFO	Stopped listening on port 34629
+1620862642141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0WrnsS"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862642456	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862648511	Marionette	INFO	Listening on port 37913
+1620862648567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620862662332	Marionette	INFO	Stopped listening on port 37913
+1620862670081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZPM7HZ"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862670403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862675993	Marionette	INFO	Listening on port 37497
+1620862676105	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5D0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1620862695444	Marionette	INFO	Stopped listening on port 37497
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1620862708132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2dvhis"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862708570	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862714070	Marionette	INFO	Listening on port 40617
+1620862714162	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620862730536	Marionette	INFO	Stopped listening on port 40617
+1620862739043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoaKizC"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862739577	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620862748504	Marionette	INFO	Listening on port 45519
+1620862748585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1620862769102	Marionette	INFO	Stopped listening on port 45519
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1620862925781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL9M7fp"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862926505	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862930940	Marionette	INFO	Listening on port 36737
+1620862931004	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620862947237	Marionette	INFO	Stopped listening on port 36737
+1620862958695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeONvEe"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620862959021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620862964237	Marionette	INFO	Listening on port 33967
+1620862964318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1620862980430	Marionette	INFO	Stopped listening on port 33967
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620863086210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePqfDtH"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620863086574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620863093056	Marionette	INFO	Listening on port 42691
+1620863093152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620863106998	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620863127606	Marionette	INFO	Stopped listening on port 42691
+1620864113987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMwFnpx"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620864114385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620864119873	Marionette	INFO	Listening on port 43413
+1620864119922	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620864131049	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620864148379	Marionette	INFO	Stopped listening on port 43413
+1620864177114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea5E1gj"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620864177549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620864184093	Marionette	INFO	Listening on port 43583
+1620864184154	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620864198015	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1620864203316	Marionette	INFO	Stopped listening on port 43583
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1620864886373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile48iK64"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620864886800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620864892298	Marionette	INFO	Listening on port 41521
+1620864892425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1620864912918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVDPsA1"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620864913340	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620864920080	Marionette	INFO	Listening on port 38701
+1620864920155	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620864949187	Marionette	INFO	Stopped listening on port 38701
+1620865745326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGzOuZT"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620865745728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620865750803	Marionette	INFO	Listening on port 42353
+1620865750859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620865780836	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620865790460	Marionette	INFO	Stopped listening on port 42353
+1620867302667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerRnwjv"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620867303408	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620867309670	Marionette	INFO	Listening on port 45563
+1620867309991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620867319774	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620867437750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4W2EBu"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620867438085	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620867443931	Marionette	INFO	Listening on port 46877
+1620867443975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620867455863	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620867566733	Marionette	INFO	Stopped listening on port 46877
+1620867624323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKSUaET"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620867624647	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620867630513	Marionette	INFO	Listening on port 41459
+1620867630547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620867645738	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1620867653686	Marionette	INFO	Stopped listening on port 41459
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1620867749196	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile616YBP"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620867749507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620867755250	Marionette	INFO	Listening on port 46395
+1620867755320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620867767819	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620867807322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef3f0fH"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620867807671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620867820940	Marionette	INFO	Listening on port 35877
+1620867820965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620867835030	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620867860974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileizIneL"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620867861322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620867869594	Marionette	INFO	Listening on port 42881
+1620867869721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620867885355	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1620868414670	Marionette	INFO	Stopped listening on port 42881
+1620868420817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFteNc6"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620868421200	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620868428453	Marionette	INFO	Listening on port 45629
+1620868428557	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620868437258	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620868439991	Marionette	INFO	Stopped listening on port 45629
+1620868499007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOz4HaM"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620868499378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620868505171	Marionette	INFO	Listening on port 33963
+1620868505242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620868519462	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1620868680705	Marionette	INFO	Stopped listening on port 33963
+1620868681638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQGcWy9"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620868681980	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 196: Error: Data is not ready.
+1620868698840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebUIxNP"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620868699172	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620868704787	Marionette	INFO	Listening on port 41365
+1620868704880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620868724134	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620868748840	Marionette	INFO	Stopped listening on port 41365
+1620868764387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKcO8ig"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620868764731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620868770948	Marionette	INFO	Listening on port 40849
+1620868771035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620868786164	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620869405771	Marionette	INFO	Stopped listening on port 40849
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620873225670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefcZ3ge"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620873226015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620873232069	Marionette	INFO	Listening on port 35605
+1620873232107	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620873244949	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620873530852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepNmKis"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620873531194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620873536386	Marionette	INFO	Listening on port 40265
+1620873536507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620873547841	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620873648855	Marionette	INFO	Stopped listening on port 40265
+1620874518558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSueKf7"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620874518908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620874524146	Marionette	INFO	Listening on port 43731
+1620874524209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620874539893	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620874542586	Marionette	INFO	Stopped listening on port 43731
+1620874585366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePsEIUd"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620874585710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620874590946	Marionette	INFO	Listening on port 46279
+1620874591022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620874612458	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: TypeError: e.parent is null
+1620874615115	Marionette	INFO	Stopped listening on port 46279
+1620874685457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK1NCix"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620874685798	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620874691926	Marionette	INFO	Listening on port 33737
+1620874691991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620874707366	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620874871852	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepg3TJx"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620874872191	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620874877657	Marionette	INFO	Listening on port 45095
+1620874877685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620874900004	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620874947968	Marionette	INFO	Stopped listening on port 45095
+1620874953287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehnjClD"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620874953651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620874959374	Marionette	INFO	Listening on port 42839
+1620874959421	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620874972579	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620874982349	Marionette	INFO	Stopped listening on port 42839
+1620875168144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIZRSFX"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620875168489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620875174927	Marionette	INFO	Listening on port 42867
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620875176403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620875196914	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620875201650	Marionette	INFO	Stopped listening on port 42867
+1620875250489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMf0Dpw"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620875250840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620875298144	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSAgRYi"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620875298486	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620875305091	Marionette	INFO	Listening on port 38201
+1620875305209	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620875324721	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620875330496	Marionette	INFO	Stopped listening on port 38201
+1620875443417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQWUq3d"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620875443784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620875449976	Marionette	INFO	Listening on port 39503
+1620875450062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620875463637	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1620875540343	Marionette	INFO	Stopped listening on port 33737
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620885636050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile03CQvu"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620885641438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620885656928	Marionette	INFO	Listening on port 40221
+1620885657242	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6D0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1620885714781	Marionette	INFO	Stopped listening on port 40221
+1620950900068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCoqJxI"
+1620950919861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFy836W"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620950922658	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620950934596	Marionette	INFO	Listening on port 37097
+1620950934888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620950949995	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1620951017458	Marionette	INFO	Stopped listening on port 37097
+1620951021217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR84D2X"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620951021868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620951028809	Marionette	INFO	Listening on port 39405
+1620951028888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620951044761	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951049413	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951052762	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951056093	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951059112	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951061931	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951065265	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951068097	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951070784	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951074620	Marionette	INFO	Stopped listening on port 39405
+1620951161795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemHlOZC"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620951162421	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620951169033	Marionette	INFO	Listening on port 42175
+1620951169150	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620951182348	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951197413	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: SecurityError: Permission denied to access property "webengage-engagement-callback-frame" on cross-origin object
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: SecurityError: Permission denied to access property "webengage-engagement-callback-frame" on cross-origin object
+1620951203987	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951207333	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951210830	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951284362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoqRCaz"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620951285084	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620951291501	Marionette	INFO	Listening on port 35811
+1620951291619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620951304753	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951306586	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://www.facebook.com/v2.6/plugins/save.php?app_id=501126536647943&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df132c810ffe39f4%26domain%3Degypt.souq.com%26origin%3Dhttps%253A%252F%252Fegypt.souq.com%252Ff31464a962f2938%26relation%3Dparent.parent&container_width=0&locale=ar_AR&sdk=joey&uri=http%3A%2F%2Fegypt.souq.com%2Feg-ar%2F%25D9%2583%25D8%25A7%25D8%25A8%25D9%2584-%25D8%25A7%25D9%2585-%25D8%25A8%25D9%258A-%25D8%25AB%25D8%25B1%25D9%258A-%25D8%25B3%25D9%258A%25D8%25A7%25D8%25B1%25D8%25A9-aux-%25D8%25B0%25D9%2583%25D8%25B1-%25D8%25A7%25D9%2584%25D9%258A-%25D8%25B0%25D9%2583%25D8%25B1-3-5-%25D9%2585%25D9%2584%25D9%2584%25D9%2585-%25D9%2585%25D8%25AA%25D9%2588%25D8%25A7%25D9%2581%25D9%2582-%25D9%2585%25D8%25B9-%25D8%25A7%25D9%2584%25D8%25A7%25D9%258A%25D9%2581%25D9%2588%25D9%2586-%25D9%2588-%25D8%25A7%25D9%2584%25D8%25A7%25D9%258A%25D8%25A8%25D9%2588%25D8%25AF-6702818%2Fi%2F, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.6/plugins/save.php?app_id=501126536647943&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df132c810ffe39f4%26domain%3Degypt.souq.com%26origin%3Dhttps%253A%252F%252Fegypt.souq.com%252Ff31464a962f2938%26relation%3Dparent.parent&container_width=0&locale=ar_AR&sdk=joey&uri=http%3A%2F%2Fegypt.souq.com%2Feg-ar%2F%25D9%2583%25D8%25A7%25D8%25A8%25D9%2584-%25D8%25A7%25D9%2585-%25D8%25A8%25D9%258A-%25D8%25AB%25D8%25B1%25D9%258A-%25D8%25B3%25D9%258A%25D8%25A7%25D8%25B1%25D8%25A9-aux-%25D8%25B0%25D9%2583%25D8%25B1-%25D8%25A7%25D9%2584%25D9%258A-%25D8%25B0%25D9%2583%25D8%25B1-3-5-%25D9%2585%25D9%2584%25D9%2584%25D9%2585-%25D9%2585%25D8%25AA%25D9%2588%25D8%25A7%25D9%2581%25D9%2582-%25D9%2585%25D8%25B9-%25D8%25A7%25D9%2584%25D8%25A7%25D9%258A%25D9%2581%25D9%2588%25D9%2586-%25D9%2588-%25D8%25A7%25D9%2584%25D8%25A7%25D9%258A%25D8%25A8%25D9%2588%25D8%25AF-6702818%2Fi%2F, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.6/plugins/save.php?app_id=501126536647943&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df132c810ffe39f4%26domain%3Degypt.souq.com%26origin%3Dhttps%253A%252F%252Fegypt.souq.com%252Ff31464a962f2938%26relation%3Dparent.parent&container_width=0&locale=ar_AR&sdk=joey&uri=http%3A%2F%2Fegypt.souq.com%2Feg-ar%2F%25D9%2583%25D8%25A7%25D8%25A8%25D9%2584-%25D8%25A7%25D9%2585-%25D8%25A8%25D9%258A-%25D8%25AB%25D8%25B1%25D9%258A-%25D8%25B3%25D9%258A%25D8%25A7%25D8%25B1%25D8%25A9-aux-%25D8%25B0%25D9%2583%25D8%25B1-%25D8%25A7%25D9%2584%25D9%258A-%25D8%25B0%25D9%2583%25D8%25B1-3-5-%25D9%2585%25D9%2584%25D9%2584%25D9%2585-%25D9%2585%25D8%25AA%25D9%2588%25D8%25A7%25D9%2581%25D9%2582-%25D9%2585%25D8%25B9-%25D8%25A7%25D9%2584%25D8%25A7%25D9%258A%25D9%2581%25D9%2588%25D9%2586-%25D9%2588-%25D8%25A7%25D9%2584%25D8%25A7%25D9%258A%25D8%25A8%25D9%2588%25D8%25AF-6702818%2Fi%2F, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/v2.6/plugins/save.php?app_id=501126536647943&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df132c810ffe39f4%26domain%3Degypt.souq.com%26origin%3Dhttps%253A%252F%252Fegypt.souq.com%252Ff31464a962f2938%26relation%3Dparent.parent&container_width=0&locale=ar_AR&sdk=joey&uri=http%3A%2F%2Fegypt.souq.com%2Feg-ar%2F%25D9%2583%25D8%25A7%25D8%25A8%25D9%2584-%25D8%25A7%25D9%2585-%25D8%25A8%25D9%258A-%25D8%25AB%25D8%25B1%25D9%258A-%25D8%25B3%25D9%258A%25D8%25A7%25D8%25B1%25D8%25A9-aux-%25D8%25B0%25D9%2583%25D8%25B1-%25D8%25A7%25D9%2584%25D9%258A-%25D8%25B0%25D9%2583%25D8%25B1-3-5-%25D9%2585%25D9%2584%25D9%2584%25D9%2585-%25D9%2585%25D8%25AA%25D9%2588%25D8%25A7%25D9%2581%25D9%2582-%25D9%2585%25D8%25B9-%25D8%25A7%25D9%2584%25D8%25A7%25D9%258A%25D9%2581%25D9%2588%25D9%2586-%25D9%2588-%25D8%25A7%25D9%2584%25D8%25A7%25D9%258A%25D8%25A8%25D9%2588%25D8%25AF-6702818%2Fi%2F, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: TypeError: e.parent is null
+1620951313123	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951351455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepkc14u"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620951352113	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620951359221	Marionette	INFO	Listening on port 39529
+1620951359300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620951372431	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951441193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGtVnbh"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620951441829	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620951447453	Marionette	INFO	Listening on port 43087
+1620951447545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620951527718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG1QJ4d"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620951528350	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620951535331	Marionette	INFO	Listening on port 38835
+1620951535381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620951548339	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951550694	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: SecurityError: Permission denied to access property "webengage-engagement-callback-frame" on cross-origin object
+1620951556617	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951559826	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951654588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH4hoCh"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620951655215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620951661237	Marionette	INFO	Listening on port 36365
+1620951662953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620951676221	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951678452	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: TypeError: e.parent is null
+1620951687321	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951690691	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951697840	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951704810	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951711259	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951718476	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951721674	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620951728334	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952364306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSetgvB"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620952364930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620952370681	Marionette	INFO	Listening on port 44239
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620952373079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620952390639	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952394954	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952462809	Marionette	INFO	Stopped listening on port 44239
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620952467560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3UsVLM"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620952468186	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620952473240	Marionette	INFO	Listening on port 42117
+1620952473315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620952682242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerAFPxO"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620952682885	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620952688580	Marionette	INFO	Listening on port 33587
+1620952688707	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620952739486	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: TypeError: e.parent is null
+1620952757877	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952761029	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952764753	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1620952783312	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1620952802207	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952810317	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952813307	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952831605	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952842044	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952872913	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952882929	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1620952915196	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952927999	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952943062	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952956986	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952960082	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1620952969496	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952972432	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620952982767	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953002130	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953028557	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953041876	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953080345	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953088830	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953108573	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953114960	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953124561	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953155313	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953168233	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953178931	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953181988	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1620953192340	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953211606	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620953491669	Marionette	INFO	Stopped listening on port 33587
+1620962354789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileongjWa"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620962355420	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620962361469	Marionette	INFO	Listening on port 37763
+1620962361545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620962394803	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: SecurityError: Permission denied to access property "webengage-engagement-callback-frame" on cross-origin object
+Marionette threw an error: TypeError: this.currentSession is null
+GeckoDriver.prototype.getBrowsingContext@chrome://marionette/content/driver.js:292:5
+GeckoDriver.prototype.getActor/<@chrome://marionette/content/driver.js:264:10
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:327:29
+
+1620962410145	Marionette	INFO	Stopped listening on port 37763
+1620962472922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7DHfIB"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620962473553	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620962479306	Marionette	INFO	Listening on port 38053
+1620962479373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1620962512420	Marionette	INFO	Stopped listening on port 38053
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 446: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1620962711562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel31547"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620962712174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620962718374	Marionette	INFO	Listening on port 42797
+1620962718419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620962748668	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: TypeError: e.parent is null
+1620962760154	Marionette	INFO	Stopped listening on port 42797
+1620962904724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileViAhye"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620962905413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620962913870	Marionette	INFO	Listening on port 42605
+1620962913983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620962955842	Marionette	INFO	Stopped listening on port 42605
+1620963305625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehGljUB"
+console.error: Enterprise Policies: 
+  Error parsing JSON file
+1620963306309	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620963312205	Marionette	INFO	Listening on port 38405
+1620963312286	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1620963352480	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: TypeError: e.parent is null
+1620963359804	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: SecurityError: Permission denied to access property "webengage-engagement-callback-frame" on cross-origin object
+JavaScript error: https://11b564088.webengage.co/storage-frame-1.17.htm?cdn=y&cbf=webengage-engagement-callback-frame&lc=11b564088, line 1: SecurityError: Permission denied to access property "webengage-engagement-callback-frame" on cross-origin object
+1620963369838	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1620963377099	Marionette	INFO	Stopped listening on port 38405
